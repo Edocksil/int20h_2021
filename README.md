@@ -11,3 +11,8 @@
 Для вибору місця збереження файлів, вказаних у абзаці вище - змініть на свій шлях збереження змінні ```pathToSaveLTVperUser``` та ```pathToSaveTotalLTV```.
 
 Для переобрахунку всіх даних можна скористатися комбінацією ```Ctrl+F9``` або з меню керування *Runtime → Run All*. Або вручну по комірці.
+
+# Завдання 1
+Код до 1 завдання на [kaggle](https://www.kaggle.com/c/text-classification-int20h). 
+Команда "***dags***".
+Файл для [Google Colab](https://colab.research.google.com/), аналогічно 2 завдання. Проте набір даних на kaggle.
